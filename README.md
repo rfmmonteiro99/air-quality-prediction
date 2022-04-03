@@ -1,6 +1,6 @@
 # Air Quality Prediction in Busy Streets (WDL 2022)
 
-**Challenge Provider:** UNStudio.
+**Challenge Provider:** UNStudio
 
 **Leaderboard:** 3rd place out of 50 teams
 
